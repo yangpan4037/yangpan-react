@@ -1,0 +1,11 @@
+1.简介
+    React 起源于 Facebook 的内部项目，用来架设 Instagram 的网站，并于 2013 年 5 月开源。
+
+2.关键词
+    JSX 单向响应的数据流
+
+3.全家桶
+    Redux
+    react-router
+    react-router-redux
+    react-router-config

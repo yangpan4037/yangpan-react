@@ -1,0 +1,11 @@
+react开发工具
+    1.VScode（推荐）
+        https://legacy.gitbook.com/book/jeasonstudio/vscode-cn-doc/details
+
+    2.其他（不推荐）
+        sublimeText + 插件
+            http://www.sublimetext.com/
+        webstorm
+            http://www.jetbrains.com/webstorm/
+        atom
+            http://www.atom.io/
